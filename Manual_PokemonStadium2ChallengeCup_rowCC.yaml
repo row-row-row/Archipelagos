@@ -1,0 +1,8 @@
+name: rowCC
+description: Default template created by the Manual Builder tool
+
+game: Manual_PokemonStadium2ChallengeCup_rowCC
+
+Manual_PokemonStadium2ChallengeCup_rowCC:
+    progression_balancing: 50
+    accessibility: items
